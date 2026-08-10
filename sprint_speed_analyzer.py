@@ -1,6 +1,5 @@
 # ==========================================
 # Sprint Speed & Acceleration Analyzer
-# Day 7 - Sports Data Analytics
 # Author: Abhishek Tomar
 # ==========================================
 
